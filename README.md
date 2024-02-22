@@ -1,6 +1,6 @@
 # Tabla comparativa Javascript vs Jquery
 
-Principales Métodos y eventos de Javascript y Jquery
+Principales Métodos y eventos de **Javascript vs Jquery**
 
 | Acción/Método         | JavaScript                                                                              | jQuery                                           |
 | --------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------ |
